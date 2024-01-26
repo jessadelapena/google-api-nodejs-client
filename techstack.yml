@@ -1,0 +1,637 @@
+repo_name: jessadelapena/google-api-nodejs-client
+report_id: 66772b9b0c563858575cb93290e9f010
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-26T09:23:35+00:00'
+requested_by: renovate-bot
+provider: github
+branch: main
+detected_tools_count: 46
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client
+  detection_source: Repo Metadata
+- name: Nunjucks
+  description: A templating language for JavaScript
+  website_url: https://mozilla.github.io/nunjucks/
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1637/Microsoft.VisualStudio.Services.Icons.Default
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Justin Beckwith
+  last_updated_on: 2020-04-10 03:25:48.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client
+  detection_source: Repo Metadata
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/samples/package.json
+  detection_source: samples/package.json
+  last_updated_by: Justin Beckwith
+  last_updated_on: 2020-04-27 21:17:34.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Justin Beckwith
+  last_updated_on: 2020-04-27 18:58:04.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/samples/package.json
+  detection_source: samples/package.json
+  last_updated_by: Justin Beckwith
+  last_updated_on: 2018-09-05 20:30:34.000000000 Z
+- name: Codecov
+  description: Hosted coverage reports with awesome features to enhance your CI workflow
+  website_url: https://codecov.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Justin Beckwith
+  last_updated_on: 2019-05-13 23:43:13.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/.github/workflows/ci.yaml
+  detection_source: ".github/workflows/ci.yaml"
+  last_updated_by: WhiteSource Renovate
+  last_updated_on: 2022-03-08 17:30:39.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 9.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Sofia Leon
+  last_updated_on: 2022-05-16 21:35:50.000000000 Z
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 2.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-20 20:28:38.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  version: 15.0.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Mend Renovate
+  last_updated_on: 2022-12-21 21:37:38.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/src/apis/abusiveexperiencereport/package.json
+  detection_source: src/apis/abusiveexperiencereport/package.json
+  last_updated_by: Mend Renovate
+  last_updated_on: 2022-12-21 21:55:48.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/src/apis/abusiveexperiencereport/package.json
+  detection_source: src/apis/abusiveexperiencereport/package.json
+  last_updated_by: Justin Beckwith
+  last_updated_on: 2018-06-14 21:05:10.000000000 Z
+- name: nconf
+  website_url: https://github.com/indexzero/nconf
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7721/4624.jpeg
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/samples/package.json
+  detection_source: samples/package.json
+  last_updated_by: Renovate Bot
+  last_updated_on: 2022-04-15 10:09:22.000000000 Z
+- name: "@compodoc/compodoc"
+  description: The missing documentation tool for your Angular application
+  package_url: https://www.npmjs.com/@compodoc/compodoc
+  version: 1.1.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16652/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Benjamin E. Coe
+  last_updated_on: 2021-05-03 22:37:11.000000000 Z
+- name: "@types/execa"
+  description: Stub TypeScript definitions entry for execa
+  package_url: https://www.npmjs.com/@types/execa
+  version: 0.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17463/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-20 20:28:38.000000000 Z
+- name: "@types/mocha"
+  description: TypeScript definitions for mocha
+  package_url: https://www.npmjs.com/@types/mocha
+  version: 9.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-20 20:28:38.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 18.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-20 20:28:38.000000000 Z
+- name: "@types/prettier"
+  description: TypeScript definitions for prettier
+  package_url: https://www.npmjs.com/@types/prettier
+  version: 2.7.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16943/default_c17ccfb3dc0510bb2c684b87ee080a74a9728c34.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-20 20:28:38.000000000 Z
+- name: "@types/proxyquire"
+  description: TypeScript definitions for Proxyquire
+  package_url: https://www.npmjs.com/@types/proxyquire
+  version: 1.3.28
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18284/default_50aa8853d88dc4ec2f0220c77d87d7b045174711.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-20 20:28:38.000000000 Z
+- name: "@types/qs"
+  description: TypeScript definitions for qs
+  package_url: https://www.npmjs.com/@types/qs
+  version: 6.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17032/default_d17bbf7e4f3b102e29ff09c01b8165e7ba600319.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-20 20:28:38.000000000 Z
+- name: "@types/sinon"
+  description: TypeScript definitions for Sinon
+  package_url: https://www.npmjs.com/@types/sinon
+  version: 10.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16151/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-20 20:28:38.000000000 Z
+- name: "@types/tmp"
+  description: TypeScript definitions for tmp
+  package_url: https://www.npmjs.com/@types/tmp
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17575/default_661ab15cb9ea1663765f3e16ee70a1d2d50118d1.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-20 20:28:38.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 7.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Benjamin E. Coe
+  last_updated_on: 2021-05-03 22:37:11.000000000 Z
+- name: execa
+  description: Process execution for humans
+  package_url: https://www.npmjs.com/execa
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16132/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: WhiteSource Renovate
+  last_updated_on: 2020-12-03 17:19:02.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/samples/package.json
+  detection_source: samples/package.json
+  last_updated_by: Justin Beckwith
+  last_updated_on: 2020-04-27 21:17:34.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+- name: google-auth-library
+  description: Google APIs Authentication Client Library for Node.js
+  package_url: https://www.npmjs.com/google-auth-library
+  version: 8.0.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17925/default_72dbba22ca96f25f78f55f8ea5393222efca5494.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Sofia Leon
+  last_updated_on: 2022-05-17 22:38:54.000000000 Z
+- name: googleapis
+  description: Google APIs Client Library for Node.js
+  package_url: https://www.npmjs.com/googleapis
+  version: 119.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16842/default_d7dbced92f420888f118516ac7144afed4acf9ca.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/samples/package.json
+  detection_source: samples/package.json
+  last_updated_by: release-please[bot]
+  last_updated_on: 2023-05-02 02:59:18.000000000 Z
+- name: gts
+  description: Google TypeScript Style
+  package_url: https://www.npmjs.com/gts
+  version: 3.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17631/default_2b5fe3dc5bfc4e83a84162459ff612ac6febd61a.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: burcud@google.com
+  last_updated_on: 2013-03-06 17:18:00.000000000 Z
+- name: mv
+  description: Fs.rename but works across devices
+  package_url: https://www.npmjs.com/mv
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17889/default_788839e3786ca1ccd5da69cc550f25d0129fb180.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: burcud@google.com
+  last_updated_on: 2013-03-06 17:18:00.000000000 Z
+- name: nconf
+  description: Hierarchical node.js configuration with files
+  package_url: https://www.npmjs.com/nconf
+  version: 0.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16591/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/samples/package.json
+  detection_source: samples/package.json
+  last_updated_by: Renovate Bot
+  last_updated_on: 2022-04-15 10:09:22.000000000 Z
+- name: ncp
+  description: Asynchronous recursive file copy utility
+  package_url: https://www.npmjs.com/ncp
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16261/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: burcud@google.com
+  last_updated_on: 2013-03-06 17:18:00.000000000 Z
+- name: nock
+  description: HTTP server mocking and expectations library for Node.js
+  package_url: https://www.npmjs.com/nock
+  version: 13.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16036/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Justin Beckwith
+  last_updated_on: 2020-07-06 16:18:00.000000000 Z
+- name: null-loader
+  description: A webpack loader that returns an empty module
+  package_url: https://www.npmjs.com/null-loader
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16787/default_6c86c81e45e0f08d11e77cb7e07388a0317cf081.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/src/apis/abusiveexperiencereport/package.json
+  detection_source: src/apis/abusiveexperiencereport/package.json
+  last_updated_by: WhiteSource Renovate
+  last_updated_on: 2022-01-17 19:17:53.000000000 Z
+- name: open
+  description: Open stuff like URLs, files, executables. Cross-platform
+  package_url: https://www.npmjs.com/open
+  version: 8.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16245/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: WhiteSource Renovate
+  last_updated_on: 2021-03-04 22:21:17.000000000 Z
+- name: p-queue
+  description: Promise queue with concurrency control
+  package_url: https://www.npmjs.com/p-queue
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18257/default_315a767553036d5263c95420817fe68cd3885651.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2019-06-14 05:50:56.000000000 Z
+- name: proxyquire
+  description: Proxies nodejs require in order to allow overriding dependencies during
+    testing
+  package_url: https://www.npmjs.com/proxyquire
+  version: 2.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16138/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Justin Beckwith
+  last_updated_on: 2020-05-19 18:43:10.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 3.0.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Benjamin E. Coe
+  last_updated_on: 2021-05-03 22:37:11.000000000 Z
+- name: server-destroy
+  description: Enable destroying a server
+  package_url: https://www.npmjs.com/server-destroy
+  version: 1.0.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17834/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Justin Beckwith
+  last_updated_on: 2018-02-24 14:14:19.000000000 Z
+- name: tmp
+  description: Temporary file and directory creator
+  package_url: https://www.npmjs.com/tmp
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16251/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: burcud@google.com
+  last_updated_on: 2013-03-06 17:18:00.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 9.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/src/apis/abusiveexperiencereport/package.json
+  detection_source: src/apis/abusiveexperiencereport/package.json
+  last_updated_by: WhiteSource Renovate
+  last_updated_on: 2022-01-17 19:17:53.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://www.npmjs.com/uuid
+  version: 9.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/samples/package.json
+  detection_source: samples/package.json
+  last_updated_by: WhiteSource Renovate
+  last_updated_on: 2022-09-21 21:20:01.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/src/apis/abusiveexperiencereport/package.json
+  detection_source: src/apis/abusiveexperiencereport/package.json
+  last_updated_by: Mend Renovate
+  last_updated_on: 2022-12-21 21:55:48.000000000 Z
+- name: yargs-parser
+  description: The mighty option parser used by yargs
+  package_url: https://www.npmjs.com/yargs-parser
+  version: 20.2.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17207/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/jessadelapena/google-api-nodejs-client/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: WhiteSource Renovate
+  last_updated_on: 2020-12-24 20:37:03.000000000 Z

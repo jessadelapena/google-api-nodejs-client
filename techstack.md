@@ -3,19 +3,19 @@
 ## Tech Stack
 jessadelapena/google-api-nodejs-client is built on the following main stack:
 
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [Python](https://www.python.org) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [TypeScript](http://www.typescriptlang.org) – Languages
 - [Nunjucks](https://mozilla.github.io/nunjucks/) – Templating Languages & Extensions
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [Python](https://www.python.org) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [Chai](http://chaijs.com/) – Javascript Testing Framework
 - [Codecov](https://codecov.io/) – Code Coverage
-- [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
-- [Prettier](https://prettier.io/) – Code Review
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- [Prettier](https://prettier.io/) – Code Review
+- [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
 
 Full tech stack [here](/techstack.md)
 
@@ -25,19 +25,19 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 jessadelapena/google-api-nodejs-client is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1637/Microsoft.VisualStudio.Services.Icons.Default' alt='Nunjucks'/> [Nunjucks](https://mozilla.github.io/nunjucks/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png' alt='Codecov'/> [Codecov](https://codecov.io/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
 
 Full tech stack [here](/techstack.md)
 
@@ -48,7 +48,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jessadelapena/google-api-nodejs-client](https://github.com/jessadelapena/google-api-nodejs-client)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|46<br/>Tools used|01/26/24 <br/>Report generated|
+|46<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
